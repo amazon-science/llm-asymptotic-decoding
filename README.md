@@ -1,12 +1,6 @@
-## My Project
+## REAL Sampling: Boosting Factuality and Diversity of Open-Ended Generation via Asymptotic Entropy
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
-* Write in your license below and create a LICENSE file
+Official repository for above publication where we develop a new decoding strategy to balance factuality and diversity in open ended LLM generation.
 
 ## Security
 
@@ -14,5 +8,5 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 
 ## License
 
-This library is licensed under the LICENSE NAME HERE License.
+This library is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/) License.
 
