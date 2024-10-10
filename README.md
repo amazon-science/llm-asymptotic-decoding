@@ -1,4 +1,4 @@
-## REAL Sampling: Boosting Factuality and Diversity of Open-Ended Generation via Asymptotic Entropy
+## Asymptotic Probability Decoding and REAL sampling
 
 Official repository for above publication where we develop a new decoding strategy to balance factuality and diversity in open ended LLM generation.
 
