@@ -2,6 +2,7 @@
 
 Official repository for above publication where we develop a new decoding strategy to balance factuality and diversity in open ended LLM generation.
 
+
 ## Security
 
 See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
