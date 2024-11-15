@@ -54,7 +54,7 @@ from transformers.trainer_utils import get_last_checkpoint
 from transformers.utils import check_min_version, send_example_telemetry
 from transformers.utils.versions import require_version
 from model import GPTNeoXForEntropyClassification, GPTNeoXForEXPEntropyClassification, GPTNeoXForScaledEntropyClassification
-from model import OPTForEntropyClassification, GPT2ForEntropyClassification
+from model import OPTForEntropyClassification
 
 # Will error if the minimal version of Transformers is not installed. Remove at your own risks.
 #check_min_version("4.32.0.dev0")

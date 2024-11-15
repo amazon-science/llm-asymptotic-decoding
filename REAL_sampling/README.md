@@ -1,6 +1,6 @@
 # REAL Sampling: Boosting Factuality and Diversity of Open-Ended Generation by Extrapolating the Entropy of an Infinitely Large LM
 
-<p align="center"><img src="https://github.com/amazon-science/llm-asymptotic-decoding/blob/master/REAL_sampling/imgs/REAL_second_figure.png?raw=true" width="2890" height="622"></p>
+<p align="center"><img src="https://github.com/amazon-science/llm-asymptotic-decoding/blob/master/REAL_sampling/imgs/REAL_second_figure.png?raw=true" width="540" height="116"></p>
 
 ## Introduction
 

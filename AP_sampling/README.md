@@ -1,6 +1,6 @@
 # Explaining and Improving Contrastive Decoding by Extrapolating the Probabilities of a Huge and Hypothetical LM
 
-<p align="center"><img src="https://github.com/amazon-science/llm-asymptotic-decoding/blob/master/AP_sampling/imgs/APD_first_figure.png?raw=true" width="1586" height="1402"></p>
+<p align="center"><img src="https://github.com/amazon-science/llm-asymptotic-decoding/blob/master/AP_sampling/imgs/APD_first_figure.png?raw=true" width="540" height="477"></p>
 
 ## Introduction
 
