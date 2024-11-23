@@ -4,7 +4,7 @@
 
 Assuming you have a series of LLMs with different sizes that are trained on the same data and you want to increase the factuality and diversity of the text sampled from your largest LLM. Then, consider to use our proposed REAL sampling and/or APD sampling. In FactualityPrompt, we show that APD + REAL sampling outperforms 13 state-of-the-art sampling methods. Our baselines include typical ([Meister et al., 2022](https://arxiv.org/abs/2202.00666)), eta ([Hewitt et al., 2022](https://arxiv.org/pdf/2210.15191)), EDT ([Zhang et al., 2024](https://arxiv.org/abs/2403.14541)), adaptive ([Zhu et al., 2024](https://arxiv.org/abs/2402.18223)), microstat ([Basu et al., 2021](https://arxiv.org/abs/2007.14966)), EAD w/o ELI ([Arora et al., 2023](https://arxiv.org/abs/2302.06784)) factual ([Lee et al., 2022](https://arxiv.org/abs/2206.04624)) top-p ([Holtzman et al., 2020](https://arxiv.org/pdf/1904.09751)), top-k ([Fan et al., 2018](https://arxiv.org/pdf/1805.04833)), and temperature sampling; contrastive search ([Su and Collier, 2022](https://arxiv.org/pdf/2210.14140)) , contrastive decoding (CD) ([Li et al., 2022](https://arxiv.org/pdf/2210.15097)), and DoLa ([Chuang et al., 2023](https://arxiv.org/pdf/2309.03883)). We show that APD + REAL sampling makes Pythia 6.9B simultaneously achieve the factuality of greedy sampling and diversity of top-p with p=0.5.
 
-<p align="center"><img src="https://github.com/amazon-science/llm-asymptotic-decoding/blob/main/AP_sampling/imgs/Results.png?raw=true" width="540" height="195"></p>
+<p align="center"><img src="https://github.com/amazon-science/llm-asymptotic-decoding/blob/main/AP_sampling/imgs/Results.png?raw=true" width="700" height="253"></p>
 
 ## Usage
 
