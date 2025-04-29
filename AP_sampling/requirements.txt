@@ -212,7 +212,7 @@ tinycss2==1.2.1
 tokenizers==0.19.1
 tomli==2.0.1
 toolwrapper==2.1.0
-torch==2.1.1
+torch==2.7.0
 torchaudio==2.1.1
 torchvision==0.16.1
 tornado==6.4.2
