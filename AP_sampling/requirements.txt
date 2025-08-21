@@ -177,7 +177,7 @@ QtPy==2.4.1
 rapidfuzz==3.5.2
 referencing==0.33.0
 regex==2023.10.3
-requests==2.31.0
+requests==2.32.4
 responses==0.18.0
 rfc3339-validator==0.1.4
 rfc3986-validator==0.1.1
