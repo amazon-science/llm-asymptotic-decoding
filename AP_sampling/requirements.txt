@@ -50,7 +50,7 @@ fairseq==0.12.2
 faiss-cpu==1.8.0
 fastjsonschema==2.19.1
 fever-drqa==1.0.13
-filelock==3.13.1
+filelock==3.20.3
 fonttools==4.45.0
 fqdn==1.5.1
 frozenlist==1.4.0
