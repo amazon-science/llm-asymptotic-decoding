@@ -110,7 +110,7 @@ nbformat==5.9.2
 nest-asyncio==1.6.0
 networkx==3.1
 ninja==1.11.1.1
-nltk==3.8.1
+nltk==3.9.2
 notebook==7.0.7
 notebook_shim==0.2.3
 numpy==1.24.4
